@@ -1,41 +1,41 @@
-"Source:","/home/chark/kicad/level_shifter_boards/xiao_level_shifter_v1/xiao_level_shifter_v1/xiao_level_shifter_v1.kicad_sch"
-"Date:","Mon 10 Apr 2023 09:02:22 PM MST"
-"Tool:","Eeschema 6.0.2+dfsg-1"
-"Generator:","/usr/share/kicad/plugins/bom_csv_grouped_by_value.py"
-"Component Count:","14"
-
-"Individual Components:"
-
-"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
-"","","A1","Adafruit_QT_PY","xiao_level_shifter_v1:Adafruit_QT_PY","xiao_level_shifter_v1:Adafruit_QT_PY_SMT","https://www.adafruit.com/product/4600"
-"","","C1","10uF","Device:C","Resistor_SMD:R_0603_1608Metric","~"
-"","","C2","100pF","Device:C","Resistor_SMD:R_0603_1608Metric","~"
-"","","C3","10uF","Device:C","Resistor_SMD:R_0603_1608Metric","~"
-"","","C4","10uF","Device:C","Resistor_SMD:R_0603_1608Metric","~"
-"","","J1","Conn_02x10_Odd_Even","Connector_Generic:Conn_02x10_Odd_Even","Connector_PinHeader_2.54mm:PinHeader_2x10_P2.54mm_Vertical","~"
-"","","J2","Conn_02x02_Odd_Even","Connector_Generic:Conn_02x02_Odd_Even","Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical","~"
-"","","J3","Conn_01x01","Connector_Generic:Conn_01x01","Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical","~"
-"","","R1","200k","Device:R","Capacitor_SMD:C_0603_1608Metric","~"
-"","","RN1","4608X-AP1-102LF","Device:R_Network07","4608X-AP1-102LF","https://www.mouser.com/datasheet/2/54/4600x-776645.pdf"
-"","","RN2","4605X-101-100LF","Device:R_Network04","xiao_level_shifter_v1:R_Array_SMT5","https://www.mouser.com/datasheet/2/54/4600x-776645.pdf"
-"","","U1","NVT2010PW","xiao_level_shifter_v1:NVT2010PW","Package_SO:TSSOP-24_4.4x7.8mm_P0.65mm","https://www.nxp.com/docs/en/data-sheet/NVT2008_NVT2010.pdf"
-"","","U2","AP2112K-1.8","Regulator_Linear:AP2112K-1.8","Package_TO_SOT_SMD:SOT-23-5","https://www.diodes.com/assets/Datasheets/AP2112.pdf"
-"","","U3","AP2112K-1.2","Regulator_Linear:AP2112K-1.2","Package_TO_SOT_SMD:SOT-23-5","https://www.diodes.com/assets/Datasheets/AP2112.pdf"
-
-
-
-"Collated Components:"
-
-"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
-"1","1","A1","Adafruit_QT_PY","xiao_level_shifter_v1:Adafruit_QT_PY","xiao_level_shifter_v1:Adafruit_QT_PY_SMT","https://www.adafruit.com/product/4600"
-"2","3","C1, C3, C4","10uF","Device:C","Resistor_SMD:R_0603_1608Metric","~"
-"3","1","C2","100pF","Device:C","Resistor_SMD:R_0603_1608Metric","~"
-"4","1","J1","Conn_02x10_Odd_Even","Connector_Generic:Conn_02x10_Odd_Even","Connector_PinHeader_2.54mm:PinHeader_2x10_P2.54mm_Vertical","~"
-"5","1","J2","Conn_02x02_Odd_Even","Connector_Generic:Conn_02x02_Odd_Even","Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical","~"
-"6","1","J3","Conn_01x01","Connector_Generic:Conn_01x01","Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical","~"
-"7","1","R1","200k","Device:R","Capacitor_SMD:C_0603_1608Metric","~"
-"8","1","RN1","4608X-AP1-102LF","Device:R_Network07","4608X-AP1-102LF","https://www.mouser.com/datasheet/2/54/4600x-776645.pdf"
-"9","1","RN2","4605X-101-100LF","Device:R_Network04","xiao_level_shifter_v1:R_Array_SMT5","https://www.mouser.com/datasheet/2/54/4600x-776645.pdf"
-"10","1","U1","NVT2010PW","xiao_level_shifter_v1:NVT2010PW","Package_SO:TSSOP-24_4.4x7.8mm_P0.65mm","https://www.nxp.com/docs/en/data-sheet/NVT2008_NVT2010.pdf"
-"11","1","U2","AP2112K-1.8","Regulator_Linear:AP2112K-1.8","Package_TO_SOT_SMD:SOT-23-5","https://www.diodes.com/assets/Datasheets/AP2112.pdf"
-"12","1","U3","AP2112K-1.2","Regulator_Linear:AP2112K-1.2","Package_TO_SOT_SMD:SOT-23-5","https://www.diodes.com/assets/Datasheets/AP2112.pdf"
+Source:,/home/chark/kicad/level_shifter_boards/xiao_level_shifter_v1/xiao_level_shifter_v1/xiao_level_shifter_v1.kicad_sch,,,,,
+Date:,Mon 10 Apr 2023 09:02:22 PM MST,,,,,
+Tool:,Eeschema 6.0.2+dfsg-1,,,,,
+Generator:,/usr/share/kicad/plugins/bom_csv_grouped_by_value.py,,,,,
+Component Count:,14,,,,,
+,,,,,,
+Individual Components:,,,,,,
+,,,,,,
+Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet
+,,A1,Adafruit_QT_PY,xiao_level_shifter_v1:Adafruit_QT_PY,xiao_level_shifter_v1:Adafruit_QT_PY_SMT,https://www.adafruit.com/product/4600
+,,C1,10uF,Device:C,Resistor_SMD:R_0603_1608Metric,~
+,,C2,100pF,Device:C,Resistor_SMD:R_0603_1608Metric,~
+,,C3,10uF,Device:C,Resistor_SMD:R_0603_1608Metric,~
+,,C4,10uF,Device:C,Resistor_SMD:R_0603_1608Metric,~
+,,J1,Conn_02x10_Odd_Even,Connector_Generic:Conn_02x10_Odd_Even,Connector_PinHeader_2.54mm:PinHeader_2x10_P2.54mm_Vertical,~
+,,J2,Conn_02x02_Odd_Even,Connector_Generic:Conn_02x02_Odd_Even,Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical,~
+,,J3,Conn_01x01,Connector_Generic:Conn_01x01,Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical,~
+,,R1,200k,Device:R,Capacitor_SMD:C_0603_1608Metric,~
+,,RN1,4608X-AP1-102LF,Device:R_Network07,4608X-AP1-102LF,https://www.mouser.com/datasheet/2/54/4600x-776645.pdf
+,,RN2,4605X-101-100LF,Device:R_Network04,xiao_level_shifter_v1:R_Array_SMT5,https://www.mouser.com/datasheet/2/54/4600x-776645.pdf
+,,U1,NVT2010PW,xiao_level_shifter_v1:NVT2010PW,Package_SO:TSSOP-24_4.4x7.8mm_P0.65mm,https://www.nxp.com/docs/en/data-sheet/NVT2008_NVT2010.pdf
+,,U2,AP2112K-1.8,Regulator_Linear:AP2112K-1.8,Package_TO_SOT_SMD:SOT-23-5,https://www.diodes.com/assets/Datasheets/AP2112.pdf
+,,U3,AP2112K-1.2,Regulator_Linear:AP2112K-1.2,Package_TO_SOT_SMD:SOT-23-5,https://www.diodes.com/assets/Datasheets/AP2112.pdf
+,,,,,,
+,,,,,,
+,,,,,,
+Collated Components:,,,,,,
+,,,,,,
+Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet
+1,1,A1,Adafruit_QT_PY,xiao_level_shifter_v1:Adafruit_QT_PY,xiao_level_shifter_v1:Adafruit_QT_PY_SMT,https://www.adafruit.com/product/4600
+2,3,"C1, C3, C4",10uF,Device:C,Resistor_SMD:R_0603_1608Metric,~
+3,1,C2,100pF,Device:C,Resistor_SMD:R_0603_1608Metric,~
+4,1,J1,Conn_02x10_Odd_Even,Connector_Generic:Conn_02x10_Odd_Even,Connector_PinHeader_2.54mm:PinHeader_2x10_P2.54mm_Vertical,~
+5,1,J2,Conn_02x02_Odd_Even,Connector_Generic:Conn_02x02_Odd_Even,Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical,~
+6,1,J3,Conn_01x01,Connector_Generic:Conn_01x01,Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical,~
+7,1,R1,200k,Device:R,Capacitor_SMD:C_0603_1608Metric,~
+8,1,RN1,4608X-AP1-102LF,Device:R_Network07,4608X-AP1-102LF,https://www.mouser.com/datasheet/2/54/4600x-776645.pdf
+9,1,RN2,4605X-101-100LF,Device:R_Network04,xiao_level_shifter_v1:R_Array_SMT5,https://www.mouser.com/datasheet/2/54/4600x-776645.pdf
+10,1,U1,NVT2010PW,xiao_level_shifter_v1:NVT2010PW,Package_SO:TSSOP-24_4.4x7.8mm_P0.65mm,https://www.nxp.com/docs/en/data-sheet/NVT2008_NVT2010.pdf
+11,1,U2,AP2112K-1.8,Regulator_Linear:AP2112K-1.8,Package_TO_SOT_SMD:SOT-23-5,https://www.diodes.com/assets/Datasheets/AP2112.pdf
+12,1,U3,AP2112K-1.2,Regulator_Linear:AP2112K-1.2,Package_TO_SOT_SMD:SOT-23-5,https://www.diodes.com/assets/Datasheets/AP2112.pdf
